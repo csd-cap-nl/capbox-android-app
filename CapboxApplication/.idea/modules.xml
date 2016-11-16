@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CapboxApp.iml" filepath="$PROJECT_DIR$/CapboxApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CapboxApplication.iml" filepath="$PROJECT_DIR$/CapboxApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
